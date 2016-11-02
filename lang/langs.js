@@ -1,5 +1,4 @@
 var langs = {
-	'cs':'česky'
 	'de':'deutsch',
 	'el':'ελληνικά',
 	'en':'english',
