@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-02 18:36+0100\n"
+"PO-Revision-Date: 2016-11-03 16:56+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -444,343 +444,343 @@ msgstr "stavitel"
 
 #: script/localization.js:7
 msgid "teeth"
-msgstr ""
+msgstr "zuby"
 
 #: script/localization.js:8
 msgid "meat"
-msgstr ""
+msgstr "maso"
 
 #: script/localization.js:9
 msgid "fur"
-msgstr ""
+msgstr "kožešina"
 
 #: script/localization.js:10
 msgid "alien alloy"
-msgstr ""
+msgstr "mimozemská slitina"
 
 #: script/localization.js:11
 msgid "bullets"
-msgstr ""
+msgstr "kulky"
 
 #: script/localization.js:12
 msgid "charm"
-msgstr ""
+msgstr "talisman"
 
 #: script/localization.js:13 script/path.js:138
 msgid "leather"
-msgstr ""
+msgstr "kůže"
 
 #: script/localization.js:14 script/path.js:136
 msgid "iron"
-msgstr ""
+msgstr "železo"
 
 #: script/localization.js:15 script/path.js:134
 msgid "steel"
-msgstr ""
+msgstr "ocel"
 
 #: script/localization.js:16
 msgid "coal"
-msgstr ""
+msgstr "uhlí"
 
 #: script/localization.js:17
 msgid "sulphur"
-msgstr ""
+msgstr "síra"
 
 #: script/localization.js:18
 msgid "energy cell"
-msgstr ""
+msgstr "baterka"
 
 #: script/localization.js:19 script/room.js:161
 msgid "torch"
-msgstr ""
+msgstr "svítilna"
 
 #: script/localization.js:20
 msgid "medicine"
-msgstr ""
+msgstr "lék"
 
 #: script/localization.js:21 script/outside.js:22
 msgid "hunter"
-msgstr ""
+msgstr "lovec"
 
 #: script/localization.js:22 script/outside.js:30
 msgid "trapper"
-msgstr ""
+msgstr "tvůrce pastí"
 
 #: script/localization.js:23 script/outside.js:38
 msgid "tanner"
-msgstr ""
+msgstr "koželuh"
 
 #: script/localization.js:24
 msgid "grenade"
-msgstr ""
+msgstr "granát"
 
 #: script/localization.js:25
 msgid "bolas"
-msgstr ""
+msgstr "bola"
 
 #: script/localization.js:26
 msgid "bayonet"
-msgstr ""
+msgstr "bajonet"
 
 #: script/localization.js:27 script/outside.js:46
 msgid "charcutier"
-msgstr ""
+msgstr "uzenář"
 
 #: script/localization.js:28 script/outside.js:55
 msgid "iron miner"
-msgstr ""
+msgstr "horník železa"
 
 #: script/localization.js:29
 msgid "iron mine"
-msgstr ""
+msgstr "železný důl"
 
 #: script/localization.js:30 script/outside.js:63
 msgid "coal miner"
-msgstr ""
+msgstr "horník uhlí"
 
 #: script/localization.js:31
 msgid "coal mine"
-msgstr ""
+msgstr "uhelný důl"
 
 #: script/localization.js:32 script/outside.js:71
 msgid "sulphur miner"
-msgstr ""
+msgstr "horník síry"
 
 #: script/localization.js:33
 msgid "sulphur mine"
-msgstr ""
+msgstr "sirný důl"
 
 #: script/localization.js:34 script/outside.js:88
 msgid "armourer"
-msgstr ""
+msgstr "brněník"
 
 #: script/localization.js:35 script/outside.js:79
 msgid "steelworker"
-msgstr ""
+msgstr "ocelář"
 
 #: script/localization.js:36
 msgid "bait"
-msgstr ""
+msgstr "návnada"
 
 #: script/localization.js:37 script/localization.js:44
 msgid "cured meat"
-msgstr ""
+msgstr "naložené maso"
 
 #: script/localization.js:38 script/localization.js:43
 msgid "scales"
-msgstr ""
+msgstr "šupiny"
 
 #: script/localization.js:39
 msgid "compass"
-msgstr ""
+msgstr "kompas"
 
 #: script/localization.js:40
 msgid "laser rifle"
-msgstr ""
+msgstr "laserová puška"
 
 #: script/localization.js:41 script/outside.js:15
 msgid "gatherer"
-msgstr ""
+msgstr "sběrač"
 
 #: script/localization.js:42
 msgid "cloth"
-msgstr ""
+msgstr "tkanina"
 
 #: script/localization.js:45
 msgid "thieves"
-msgstr ""
+msgstr "lupiči"
 
 #: script/localization.js:46
 msgid "not enough fur"
-msgstr ""
+msgstr "nedostatek kožešiny"
 
 #: script/localization.js:47
 msgid "not enough wood"
-msgstr ""
+msgstr "nedostatek dřeva"
 
 #: script/localization.js:48
 msgid "not enough coal"
-msgstr ""
+msgstr "nedostatek uhlí"
 
 #: script/localization.js:49
 msgid "not enough iron"
-msgstr ""
+msgstr "nedostatek železa"
 
 #: script/localization.js:50
 msgid "not enough steel"
-msgstr ""
+msgstr "nedostatek oceli"
 
 #: script/localization.js:51
 msgid "not enough sulphur"
-msgstr ""
+msgstr "nedostatek síry"
 
 #: script/localization.js:52
 msgid "baited trap"
-msgstr ""
+msgstr "past s návnadou"
 
 #: script/localization.js:53
 msgid "not enough scales"
-msgstr ""
+msgstr "nedostatek šupin"
 
 #: script/localization.js:54
 msgid "not enough cloth"
-msgstr ""
+msgstr "nedostatek tkaniny"
 
 #: script/localization.js:55
 msgid "not enough teeth"
-msgstr ""
+msgstr "nedostatek zubů"
 
 #: script/localization.js:56
 msgid "not enough leather"
-msgstr ""
+msgstr "nedostatek kůže"
 
 #: script/localization.js:57
 msgid "not enough meat"
-msgstr ""
+msgstr "nedostatek masa"
 
 #: script/localization.js:58
 msgid "the compass points east"
-msgstr ""
+msgstr "kompas ukazuje na východ"
 
 #: script/localization.js:59
 msgid "the compass points west"
-msgstr ""
+msgstr "kompas ukazuje na západ"
 
 #: script/localization.js:60
 msgid "the compass points north"
-msgstr ""
+msgstr "kompas ukazuje na sever"
 
 #: script/localization.js:61
 msgid "the compass points south"
-msgstr ""
+msgstr "kompas ukazuje na jih"
 
 #: script/localization.js:62
 msgid "the compass points northeast"
-msgstr ""
+msgstr "kompas ukazuje na severovýchod"
 
 #: script/localization.js:63
 msgid "the compass points northwest"
-msgstr ""
+msgstr "kompas ukazuje na severozápad"
 
 #: script/localization.js:64
 msgid "the compass points southeast"
-msgstr ""
+msgstr "kompas ukazuje na jihovýchod"
 
 #: script/localization.js:65
 msgid "the compass points southwest"
-msgstr ""
+msgstr "kompas ukazuje na jihozápad"
 
 #: script/outside.js:5
 msgid "Outside"
-msgstr ""
+msgstr "Venku"
 
 #: script/outside.js:102
 msgid "scraps of fur"
-msgstr ""
+msgstr "kousky srsti"
 
 #: script/outside.js:107
 msgid "bits of meat"
-msgstr ""
+msgstr "kousky masa"
 
 #: script/outside.js:112
 msgid "strange scales"
-msgstr ""
+msgstr "zvláštní šupiny"
 
 #: script/outside.js:117
 msgid "scattered teeth"
-msgstr ""
+msgstr "rozpadlé zuby"
 
 #: script/outside.js:122
 msgid "tattered cloth"
-msgstr ""
+msgstr "potrhaná tkanina"
 
 #: script/outside.js:127
 msgid "a crudely made charm"
-msgstr ""
+msgstr "hrubě vyrobený talisman"
 
 #: script/outside.js:143 script/outside.js:562
 msgid "A Silent Forest"
-msgstr ""
+msgstr "Tichý Les"
 
 #: script/outside.js:169
 msgid "gather wood"
-msgstr ""
+msgstr "sbírat dřevo"
 
 #: script/outside.js:188
 msgid "a stranger arrives in the night"
-msgstr ""
+msgstr "v noci dorazil cizinec"
 
 #: script/outside.js:190
 msgid "a weathered family takes up in one of the huts."
-msgstr ""
+msgstr "znavená rodina se zabudlí v jedné z chatrčí"
 
 #: script/outside.js:192
 msgid "a small group arrives, all dust and bones."
-msgstr ""
+msgstr "dorazila malá skupina, všichni jsou kost a kůže."
 
 #: script/outside.js:194
 msgid "a convoy lurches in, equal parts worry and hope."
-msgstr ""
+msgstr "připotácel se konvoj, s obavami i nadějí"
 
 #: script/outside.js:196
 msgid "the town's booming. word does get around."
-msgstr ""
+msgstr "městečko vzkvétá. to by se mělo rozkřiknout"
 
 #: script/outside.js:452
 msgid "pop "
-msgstr ""
+msgstr "populace"
 
 #: script/outside.js:457
 msgid "forest"
-msgstr ""
+msgstr "les"
 
 #: script/outside.js:460
 msgid "village"
-msgstr ""
+msgstr "vesnice"
 
 #: script/outside.js:543
 msgid "check traps"
-msgstr ""
+msgstr "zkontrolovat pasti"
 
 #: script/outside.js:564
 msgid "A Lonely Hut"
-msgstr ""
+msgstr "Opuštěná Chatrč"
 
 #: script/outside.js:566
 msgid "A Tiny Village"
-msgstr ""
+msgstr "Malá Vesničká"
 
 #: script/outside.js:568
 msgid "A Modest Village"
-msgstr ""
+msgstr "Střední Vesnička"
 
 #: script/outside.js:570
 msgid "A Large Village"
-msgstr ""
+msgstr "Velká Vesnice"
 
 #: script/outside.js:572
 msgid "A Raucous Village"
-msgstr ""
+msgstr "Obří Vesnice"
 
 #: script/outside.js:584
 msgid "the sky is grey and the wind blows relentlessly"
-msgstr ""
+msgstr "nebe je šedé a vítr vytrvale vane"
 
 #: script/outside.js:594
 msgid "dry brush and dead branches litter the forest floor"
-msgstr ""
+msgstr "suché jehličí a větvičky pojkrývají zemi v lese"
 
 #: script/outside.js:621
 msgid "the traps contain "
-msgstr ""
+msgstr "pasti obsahují"
 
 #: script/path.js:29 script/path.js:298
 msgid "A Dusty Path"
-msgstr ""
+msgstr "Prašná Cesta"
 
 #: script/path.js:37
 msgid "supplies:"
-msgstr ""
+msgstr "zásoby:"
 
 #: script/path.js:43
 msgid "embark"
