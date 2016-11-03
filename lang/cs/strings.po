@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-03 17:23+0100\n"
+"PO-Revision-Date: 2016-11-03 17:47+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -882,37 +882,42 @@ msgstr "myslivna stojí v lese, daleko od vesnice"
 
 #: script/room.js:74
 msgid "trading post"
-msgstr "obchodní stánek"
+msgstr "trh"
 
 #: script/room.js:77
 msgid "a trading post would make commerce easier"
-msgstr "obchodní stánek dělá obchod jednodušším"
+msgstr "trh dělá obchod jednodušším"
 
 #: script/room.js:78
 msgid ""
 "now the nomads have a place to set up shop, they might stick around a while"
 msgstr ""
+"teď už mají nomádi místo na postavení stánku, nespíše na chvíli zůstanou"
 
 #: script/room.js:88
 msgid "tannery"
-msgstr ""
+msgstr "koželužna"
 
 #: script/room.js:91
 msgid "builder says leather could be useful. says the villagers could make it."
 msgstr ""
+"stavitelka říká, že kůže může být užitečná. říká, že by z ní mohli vesničané "
+"něco vyrobit."
 
 #: script/room.js:92
 msgid "tannery goes up quick, on the edge of the village"
-msgstr ""
+msgstr "koželužna stoupá rychle, na kraji vesnice"
 
 #: script/room.js:102
 msgid "smokehouse"
-msgstr ""
+msgstr "udírna"
 
 #: script/room.js:105
 msgid ""
 "should cure the meat, or it'll spoil. builder says she can fix something up."
 msgstr ""
+"měla by vylepšit maso, nebo ho zničit. stavitelka říká, že by mohla něco "
+"postavit."
 
 #: script/room.js:106
 msgid "builder finishes the smokehouse. she looks hungry."
