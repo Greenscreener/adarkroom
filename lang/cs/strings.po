@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-03 17:47+0100\n"
+"PO-Revision-Date: 2016-11-04 14:34+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -290,7 +290,7 @@ msgstr "jestli je kód neplatný, všechna data budou ztracena."
 
 #: script/engine.js:307
 msgid "this is irreversible."
-msgstr "toto je navratné."
+msgstr "toto je nevratné."
 
 #: script/engine.js:311 script/engine.js:380 script/engine.js:499
 msgid "yes"
@@ -302,7 +302,7 @@ msgstr "ne"
 
 #: script/engine.js:322
 msgid "put the save code here."
-msgstr "vložte ukládací kód zde."
+msgstr "zde vložte ukládací kód."
 
 #: script/engine.js:374
 msgid "Restart?"
@@ -492,7 +492,7 @@ msgstr "baterka"
 
 #: script/localization.js:19 script/room.js:161
 msgid "torch"
-msgstr "svítilna"
+msgstr "pochodeň"
 
 #: script/localization.js:20
 msgid "medicine"
@@ -921,79 +921,82 @@ msgstr ""
 
 #: script/room.js:106
 msgid "builder finishes the smokehouse. she looks hungry."
-msgstr ""
+msgstr "stavitelka dodělává udírnu, vypadá hladově"
 
 #: script/room.js:116
 msgid "workshop"
-msgstr ""
+msgstr "dílna"
 
 #: script/room.js:119
 msgid "builder says she could make finer things, if she had the tools"
 msgstr ""
+"stavitelka říka, že by mohla vyrobit jemnější věci, kdyby měla potřebné "
+"nástroje"
 
 #: script/room.js:120
 msgid "workshop's finally ready. builder's excited to get to it"
-msgstr ""
+msgstr "dílna je konečně hotová. stavitelka je z ní nadšená"
 
 #: script/room.js:131
 msgid "steelworks"
-msgstr ""
+msgstr "ocelárna"
 
 #: script/room.js:134
 msgid "builder says the villagers could make steel, given the tools"
 msgstr ""
+"stavitelka říká, že vesničané by mohli vyrobit ocel, kdyby měli nástroje"
 
 #: script/room.js:135
 msgid "a haze falls over the village as the steelworks fires up"
-msgstr ""
+msgstr "jakmile zažehnou ocelárny, vesnice se ponoří do oparu"
 
 #: script/room.js:146
 msgid "armoury"
-msgstr ""
+msgstr "zbrojnice"
 
 #: script/room.js:149
 msgid "builder says it'd be useful to have a steady source of bullets"
-msgstr ""
+msgstr "stavitelka říká, že by bylo užitečné mít stálý zdroj střeliva"
 
 #: script/room.js:150
 msgid "armoury's done, welcoming back the weapons of the past."
-msgstr ""
+msgstr "zbrojnice je hotová, obnovující staré zbraně minulosti"
 
 #: script/room.js:164
 msgid "a torch to keep the dark away"
-msgstr ""
+msgstr "pochodeň pro odehnání temnoty"
 
 #: script/room.js:173
 msgid "waterskin"
-msgstr ""
+msgstr "vak na vodu"
 
 #: script/room.js:177
 msgid "this waterskin'll hold a bit of water, at least"
-msgstr ""
+msgstr "tenhle vak na vodu alespoň udrží trochu vody"
 
 #: script/room.js:185
 msgid "cask"
-msgstr ""
+msgstr "sud"
 
 #: script/room.js:189
 msgid "the cask holds enough water for longer expeditions"
-msgstr ""
+msgstr "tenhle sud udrží dost vody pro větší expedice"
 
 #: script/room.js:198
 msgid "water tank"
-msgstr ""
+msgstr "nádrž na vodu"
 
 #: script/room.js:202
 msgid "never go thirsty again"
-msgstr ""
+msgstr "už nikdy nebudete mít žízeň"
 
 #: script/room.js:211
 msgid "bone spear"
-msgstr ""
+msgstr "kostěné kopí"
 
 #: script/room.js:214
 msgid "this spear's not elegant, but it's pretty good at stabbing"
-msgstr ""
+msgstr "tenhle oštěp"
 
 #: script/room.js:223 script/world.js:285
 msgid "rucksack"
