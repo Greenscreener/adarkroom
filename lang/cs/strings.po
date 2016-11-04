@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-04 14:34+0100\n"
+"PO-Revision-Date: 2016-11-04 15:24+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1000,242 +1000,242 @@ msgstr "tenhle oštěp"
 
 #: script/room.js:223 script/world.js:285
 msgid "rucksack"
-msgstr ""
+msgstr "ruksak"
 
 #: script/room.js:227
 msgid "carrying more means longer expeditions to the wilds"
-msgstr ""
+msgstr "schopnost nosit víc znamená delší expedice do divočiny"
 
 #: script/room.js:235
 msgid "wagon"
-msgstr ""
+msgstr "vagón"
 
 #: script/room.js:239
 msgid "the wagon can carry a lot of supplies"
-msgstr ""
+msgstr "vagón uveze spustu věcí"
 
 #: script/room.js:248
 msgid "convoy"
-msgstr ""
+msgstr "konvoj"
 
 #: script/room.js:252
 msgid "the convoy can haul mostly everything"
-msgstr ""
+msgstr "konvoj dopraví téměř cokoli"
 
 #: script/room.js:262
 msgid "l armour"
-msgstr ""
+msgstr "kov brnění"
 
 #: script/room.js:265
 msgid "leather's not strong. better than rags, though."
-msgstr ""
+msgstr "kůže není silná. ačkoli je lepší než hadry"
 
 #: script/room.js:274
 msgid "i armour"
-msgstr ""
+msgstr "žel brnění"
 
 #: script/room.js:277
 msgid "iron's stronger than leather"
-msgstr ""
+msgstr "železo je silnější než kůže"
 
 #: script/room.js:286
 msgid "s armour"
-msgstr ""
+msgstr "ocl brnění"
 
 #: script/room.js:289
 msgid "steel's stronger than iron"
-msgstr ""
+msgstr "ocel je silnější než železo"
 
 #: script/room.js:298
 msgid "iron sword"
-msgstr ""
+msgstr "žel meč"
 
 #: script/room.js:301
 msgid "sword is sharp. good protection out in the wilds."
-msgstr ""
+msgstr "meč je ostrý. dobrá ochrana v divočině."
 
 #: script/room.js:311
 msgid "steel sword"
-msgstr ""
+msgstr "ocl meč"
 
 #: script/room.js:314
 msgid "the steel is strong, and the blade true."
-msgstr ""
+msgstr "ocel je silná, čepel pravá."
 
 #: script/room.js:324
 msgid "rifle"
-msgstr ""
+msgstr "puška"
 
 #: script/room.js:326
 msgid "black powder and bullets, like the old days."
-msgstr ""
+msgstr "střelný prach a kulky, jako za starých časů."
 
 #: script/room.js:458
 msgid "Room"
-msgstr ""
+msgstr "Místnost"
 
 #: script/room.js:485 script/room.js:604
 msgid "A Dark Room"
-msgstr ""
+msgstr "Temná Místnost"
 
 #: script/room.js:498
 msgid "light fire"
-msgstr ""
+msgstr "zapálit oheň"
 
 #: script/room.js:508
 msgid "stoke fire"
-msgstr ""
+msgstr "přiložit do ohně"
 
 #: script/room.js:545 script/room.js:555 script/room.js:703 script/room.js:707
 msgid "the room is {0}"
-msgstr ""
+msgstr "v místnosti je {0}"
 
 #: script/room.js:546 script/room.js:554 script/room.js:672
 msgid "the fire is {0}"
-msgstr ""
+msgstr "oheň {0}"
 
 #: script/room.js:565
 msgid ""
 "the stranger is standing by the fire. she says she can help. says she builds "
 "things."
-msgstr ""
+msgstr "neznámá stojí u ohně. říká, že může pomoci. říká, že umí stavět věci."
 
 #: script/room.js:580
 msgid "freezing"
-msgstr ""
+msgstr "mráz"
 
 #: script/room.js:581
 msgid "cold"
-msgstr ""
+msgstr "zima"
 
 #: script/room.js:582
 msgid "mild"
-msgstr ""
+msgstr "vlažno"
 
 #: script/room.js:583
 msgid "warm"
-msgstr ""
+msgstr "teplo"
 
 #: script/room.js:584
 msgid "hot"
-msgstr ""
+msgstr "horko"
 
 #: script/room.js:596
 msgid "dead"
-msgstr ""
+msgstr "je vyhaslý"
 
 #: script/room.js:597
 msgid "smoldering"
-msgstr ""
+msgstr "doutná"
 
 #: script/room.js:598
 msgid "flickering"
-msgstr ""
+msgstr "přihořívá"
 
 #: script/room.js:599
 msgid "burning"
-msgstr ""
+msgstr "hoří"
 
 #: script/room.js:600
 msgid "roaring"
-msgstr ""
+msgstr "žhne"
 
 #: script/room.js:604
 msgid "A Firelit Room"
-msgstr ""
+msgstr "Ohněm Osvícená Místnost"
 
 #: script/room.js:642
 msgid "not enough wood to get the fire going"
-msgstr ""
+msgstr "nedostatek dřeva n přikládání do ohně"
 
 #: script/room.js:655
 msgid "the wood has run out"
-msgstr ""
+msgstr "došlo dřevo"
 
 #: script/room.js:675
 msgid "the light from the fire spills from the windows, out into the dark"
-msgstr ""
+msgstr "světlo od ohně se rozšíří z oken, do temnoty"
 
 #: script/room.js:688
 msgid "builder stokes the fire"
-msgstr ""
+msgstr "stavitelka přikládá do ohně"
 
 #: script/room.js:718
 msgid "the wind howls outside"
-msgstr ""
+msgstr "venku kvílí vítr"
 
 #: script/room.js:719
 msgid "the wood is running out"
-msgstr ""
+msgstr "dochází dřevo"
 
 #: script/room.js:726
 msgid "a ragged stranger stumbles through the door and collapses in the corner"
-msgstr ""
+msgstr "rozedraný cizinec přiklopýtá dveřmi a složí se v rohu k zemi"
 
 #: script/room.js:734
 msgid ""
 "the stranger shivers, and mumbles quietly. her words are unintelligible."
-msgstr ""
+msgstr "cizinka se třese, a mumlá potichu. její slova jsou nezřetelná."
 
 #: script/room.js:737
 msgid "the stranger in the corner stops shivering. her breathing calms."
-msgstr ""
+msgstr "cizinka v rohu se přestane klepat. její dech se uklidní."
 
 #: script/room.js:760
 msgid "stores"
-msgstr ""
+msgstr "zásoby"
 
 #: script/room.js:779
 msgid "weapons"
-msgstr ""
+msgstr "zbraně"
 
 #: script/room.js:914
 msgid "total"
-msgstr ""
+msgstr "celkem"
 
 #: script/room.js:935 script/room.js:979
 msgid "not enough "
-msgstr ""
+msgstr "nedostatek"
 
 #: script/room.js:951
 msgid "builder just shivers"
-msgstr ""
+msgstr "stavitelka se jen třese"
 
 #: script/room.js:1054
 msgid "build:"
-msgstr ""
+msgstr "postavit:"
 
 #: script/room.js:1061
 msgid "craft:"
-msgstr ""
+msgstr "vyrobit:"
 
 #: script/room.js:1068
 msgid "buy:"
-msgstr ""
+msgstr "koupit"
 
 #: script/ship.js:11
 msgid "Ship"
-msgstr ""
+msgstr "Loď"
 
 #: script/ship.js:27 script/ship.js:100
 msgid "An Old Starship"
-msgstr ""
+msgstr "Stará Vesmírná Loď"
 
 #: script/ship.js:38
 msgid "hull:"
-msgstr ""
+msgstr "trup:"
 
 #: script/ship.js:44
 msgid "engine:"
-msgstr ""
+msgstr "motor:"
 
 #: script/ship.js:51
 msgid "reinforce hull"
-msgstr ""
+msgstr "zpevnit trup"
 
 #: script/ship.js:60
 msgid "upgrade engine"
-msgstr ""
+msgstr "vylepšit motor"
 
 #: script/ship.js:69 script/ship.js:142
 msgid "lift off"
