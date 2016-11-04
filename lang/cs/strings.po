@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-04 15:24+0100\n"
+"PO-Revision-Date: 2016-11-04 15:50+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -784,7 +784,7 @@ msgstr "zásoby:"
 
 #: script/path.js:43
 msgid "embark"
-msgstr "nalodit se"
+msgstr "vyrazit"
 
 #: script/path.js:60 script/room.js:1153
 msgid "the compass points "
