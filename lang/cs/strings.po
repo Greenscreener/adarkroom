@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-04 15:50+0100\n"
+"PO-Revision-Date: 2016-11-07 10:25+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1008,11 +1008,11 @@ msgstr "schopnost nosit víc znamená delší expedice do divočiny"
 
 #: script/room.js:235
 msgid "wagon"
-msgstr "vagón"
+msgstr "krytý vůz"
 
 #: script/room.js:239
 msgid "the wagon can carry a lot of supplies"
-msgstr "vagón uveze spustu věcí"
+msgstr "krytý vůz uveze spustu věcí"
 
 #: script/room.js:248
 msgid "convoy"
@@ -1154,7 +1154,7 @@ msgstr "došlo dřevo"
 
 #: script/room.js:675
 msgid "the light from the fire spills from the windows, out into the dark"
-msgstr "světlo od ohně se rozšíří z oken, do temnoty"
+msgstr "světlo ohně září okny ven do temnoty"
 
 #: script/room.js:688
 msgid "builder stokes the fire"
@@ -1239,250 +1239,257 @@ msgstr "vylepšit motor"
 
 #: script/ship.js:69 script/ship.js:142
 msgid "lift off"
-msgstr ""
+msgstr "odstratovat"
 
 #: script/ship.js:91
 msgid ""
 "somewhere above the debris cloud, the wanderer fleet hovers. been on this "
 "rock too long."
 msgstr ""
+"někde nad oblakem trosek se vznáší flotila potníků. byli na tomhle šutru už "
+"moc dlouho."
 
 #: script/ship.js:106 script/ship.js:119
 msgid "not enough alien alloy"
-msgstr ""
+msgstr "nedostatek mimozemské slitiny"
 
 #: script/ship.js:134
 msgid "Ready to Leave?"
-msgstr ""
+msgstr "Připraven na odlet?"
 
 #: script/ship.js:138
 msgid "time to get out of this place. won't be coming back."
-msgstr ""
+msgstr "čas odejít z tohoto místa a už se nevrátit"
 
 #: script/ship.js:150
 msgid "linger"
-msgstr ""
+msgstr "loudat se"
 
 #: script/space.js:42
 msgid "hull: "
-msgstr ""
+msgstr "trup:"
 
 #: script/space.js:76
 msgid "Troposphere"
-msgstr ""
+msgstr "Troposféra"
 
 #: script/space.js:78
 msgid "Stratosphere"
-msgstr ""
+msgstr "Stratosféra"
 
 #: script/space.js:80
 msgid "Mesosphere"
-msgstr ""
+msgstr "Mesosféra"
 
 #: script/space.js:82
 msgid "Thermosphere"
-msgstr ""
+msgstr "Termosféra"
 
 #: script/space.js:84
 msgid "Exosphere"
-msgstr ""
+msgstr "Exosféra"
 
 #: script/space.js:86
 msgid "Space"
-msgstr ""
+msgstr "Vesmír"
 
 #: script/space.js:424
 msgid "score for this game: {0}"
-msgstr ""
+msgstr "skóre pro tuto hru: {0}"
 
 #: script/space.js:431
 msgid "total score: {0}"
-msgstr ""
+msgstr "celkové skóre: {0}"
 
 #: script/world.js:46
 msgid "punch"
-msgstr ""
+msgstr "praštit"
 
 #: script/world.js:52
 msgid "stab"
-msgstr ""
+msgstr "píchnout"
 
 #: script/world.js:58
 msgid "swing"
-msgstr ""
+msgstr "máchnout"
 
 #: script/world.js:64
 msgid "slash"
-msgstr ""
+msgstr "seknout"
 
 #: script/world.js:70
 msgid "thrust"
-msgstr ""
+msgstr "výpad"
 
 #: script/world.js:76
 msgid "shoot"
-msgstr ""
+msgstr "střelit"
 
 #: script/world.js:83
 msgid "blast"
-msgstr ""
+msgstr "vypálit"
 
 #: script/world.js:90
 msgid "lob"
-msgstr ""
+msgstr "přehodit"
 
 #: script/world.js:97
 msgid "tangle"
-msgstr ""
+msgstr "zamotat"
 
 #: script/world.js:119
 msgid "An&nbsp;Outpost"
-msgstr ""
+msgstr "Předsunutá&nbsp;Hlídka"
 
 #: script/world.js:120
 msgid "Iron&nbsp;Mine"
-msgstr ""
+msgstr "Železný&nbsp;Důl"
 
 #: script/world.js:121
 msgid "Coal&nbsp;Mine"
-msgstr ""
+msgstr "Uhelný&nbsp;Důl"
 
 #: script/world.js:122
 msgid "Sulphur&nbsp;Mine"
-msgstr ""
+msgstr "Sirný&nbsp;Důl"
 
 #: script/world.js:123
 msgid "An&nbsp;Old&nbsp;House"
-msgstr ""
+msgstr "Starý&nbsp;Dům"
 
 #: script/world.js:124
 msgid "A&nbsp;Damp&nbsp;Cave"
-msgstr ""
+msgstr "Vlhká&nbsp;Jeskyně"
 
 #: script/world.js:125
 msgid "An&nbsp;Abandoned&nbsp;Town"
-msgstr ""
+msgstr "Opuštěné&nbsp;Město"
 
 #: script/world.js:126
 msgid "A&nbsp;Ruined&nbsp;City"
-msgstr ""
+msgstr "Zničené&nbsp;Město"
 
 #: script/world.js:127
 msgid "A&nbsp;Crashed&nbsp;Starship"
-msgstr ""
+msgstr "Zničená&nbsp;Vesmírná&nbsp;Loď"
 
 #: script/world.js:128
 msgid "A&nbsp;Borehole"
-msgstr ""
+msgstr "Vrt"
 
 #: script/world.js:129
 msgid "A&nbsp;Battlefield"
-msgstr ""
+msgstr "Bojiště"
 
 #: script/world.js:130
 msgid "A&nbsp;Murky&nbsp;Swamp"
-msgstr ""
+msgstr "Kalná&nbsp;Bažina"
 
 #: script/world.js:134
 msgid "A&nbsp;Destroyed&nbsp;Village"
-msgstr ""
+msgstr "Zničená&nbsp;Vesnice"
 
 #: script/world.js:256
 msgid "water:{0}"
-msgstr ""
+msgstr "voda:{0}"
 
 #: script/world.js:283
 msgid "pockets"
-msgstr ""
+msgstr "kapsy:"
 
 #: script/world.js:307
 msgid "hp: {0}/{1}"
-msgstr ""
+msgstr "životy: {0}/{1}"
 
 #: script/world.js:314
 msgid "{0}:{1}"
-msgstr ""
+msgstr "{0}:{1}"
 
 #: script/world.js:349
 msgid "dangerous to be this far from the village without proper protection"
-msgstr ""
+msgstr "je nebezpečné být takhle daleko od vesnice bez potřebné ochrany"
 
 #: script/world.js:351
 msgid "safer here"
-msgstr ""
+msgstr "zde je bazpečněji"
 
 #: script/world.js:451
 msgid "the meat has run out"
-msgstr ""
+msgstr "došlo maso"
 
 #: script/world.js:456
 msgid "starvation sets in"
-msgstr ""
+msgstr "přichází hlad"
 
 #: script/world.js:481
 msgid "there is no more water"
-msgstr ""
+msgstr "došla voda"
 
 #: script/world.js:485
 msgid "the thirst becomes unbearable"
-msgstr ""
+msgstr "žízeň se stává nesnesitelnou"
 
 #: script/world.js:558
 msgid "the trees yield to dry grass. the yellowed brush rustles in the wind."
-msgstr ""
+msgstr "stromy obklopuje suchá tráva. žluté křoví chrastí ve větru"
 
 #: script/world.js:561
 msgid ""
 "the trees are gone. parched earth and blowing dust are poor replacements."
 msgstr ""
+"stromy jsou pryč. proschlá země a poletující prach jsou ubohé náhrašky."
 
 #: script/world.js:568
 msgid ""
 "trees loom on the horizon. grasses gradually yield to a forest floor of dry "
 "branches and fallen leaves."
 msgstr ""
+"stromy se rýsují na obzoru. tráva postupně ustupuje jehličí a listí lesního "
+"podloží."
 
 #: script/world.js:571
 msgid "the grasses thin. soon, only dust remains."
-msgstr ""
+msgstr "trávy je čím dál méně, za chvíli zbyde jen prach."
 
 #: script/world.js:578
 msgid "the barrens break at a sea of dying grass, swaying in the arid breeze."
-msgstr ""
+msgstr "neúrodná pole zaplňuje suchá tráva, vlnící se ve větru."
 
 #: script/world.js:581
 msgid ""
 "a wall of gnarled trees rises from the dust. their branches twist into a "
 "skeletal canopy overhead."
 msgstr ""
+"stěna z pokroucených stromů se vypíná z prachu. jejich větve se kroutí do "
+"zakroucené klenby nad hlavou."
 
 #: script/world.js:817
 msgid "Wanderer"
-msgstr ""
+msgstr "Poutník"
 
 #: script/world.js:822
 msgid "The&nbsp;Village"
-msgstr ""
+msgstr "Vesnice"
 
 #: script/world.js:851
 msgid "the world fades"
-msgstr ""
+msgstr "pohled se zatmí"
 
 #: script/world.js:952 script/events/setpieces.js:2961
 msgid "water replenished"
-msgstr ""
+msgstr "voda doplněna"
 
 #: script/world.js:982
 msgid "A Barren World"
-msgstr ""
+msgstr "Marný Svět"
 
 #: script/events/encounters.js:7
 msgid "A Snarling Beast"
-msgstr ""
+msgstr "Vrčící Příšera"
 
 #: script/events/encounters.js:15
 msgid "snarling beast"
-msgstr ""
+msgstr "vrčící příšera"
 
 #: script/events/encounters.js:16
 msgid "the snarling beast is dead"
