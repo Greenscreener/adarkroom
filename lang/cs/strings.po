@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-07 10:25+0100\n"
+"PO-Revision-Date: 2016-11-07 10:41+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1493,91 +1493,91 @@ msgstr "vrčící příšera"
 
 #: script/events/encounters.js:16
 msgid "the snarling beast is dead"
-msgstr ""
+msgstr "vrčící příšera je mrtvá"
 
 #: script/events/encounters.js:39
 msgid "a snarling beast leaps out of the underbrush"
-msgstr ""
+msgstr "vrčící příšera vyskakuje z křoví"
 
 #: script/events/encounters.js:44
 msgid "A Gaunt Man"
-msgstr ""
+msgstr "Vyzáblý Muž"
 
 #: script/events/encounters.js:52
 msgid "gaunt man"
-msgstr ""
+msgstr "vyzáblý muž"
 
 #: script/events/encounters.js:53
 msgid "the gaunt man is dead"
-msgstr ""
+msgstr "vyzáblý muž je mrtev"
 
 #: script/events/encounters.js:76
 msgid "a gaunt man approaches, a crazed look in his eye"
-msgstr ""
+msgstr "přistupuje vyzáblý muž s šíleným pohledem v oku"
 
 #: script/events/encounters.js:81
 msgid "A Strange Bird"
-msgstr ""
+msgstr "Divný Pátk"
 
 #: script/events/encounters.js:89
 msgid "strange bird"
-msgstr ""
+msgstr "divný pták"
 
 #: script/events/encounters.js:90
 msgid "the strange bird is dead"
-msgstr ""
+msgstr "divný pták je mrtvý"
 
 #: script/events/encounters.js:113
 msgid "a strange looking bird speeds across the plains"
-msgstr ""
+msgstr "přes pláně přilétá zvláště vypadající pták"
 
 #: script/events/encounters.js:119
 msgid "A Shivering Man"
-msgstr ""
+msgstr "Rozklepaný Muž"
 
 #: script/events/encounters.js:127
 msgid "shivering man"
-msgstr ""
+msgstr "rozklepaný muž"
 
 #: script/events/encounters.js:128
 msgid "the shivering man is dead"
-msgstr ""
+msgstr "rozklepaný muž"
 
 #: script/events/encounters.js:156
 msgid "a shivering man approaches and attacks with surprising strength"
-msgstr ""
+msgstr "přistupuje rozklepaný muž a zaútočí překvapivou silou."
 
 #: script/events/encounters.js:161
 msgid "A Man-Eater"
-msgstr ""
+msgstr "Člověkojed"
 
 #: script/events/encounters.js:169
 msgid "man-eater"
-msgstr ""
+msgstr "člověkojed"
 
 #: script/events/encounters.js:170
 msgid "the man-eater is dead"
-msgstr ""
+msgstr "člověkojed je mrtvý"
 
 #: script/events/encounters.js:193
 msgid "a large creature attacks, claws freshly bloodied"
-msgstr ""
+msgstr "zaútočí obří příšera, klepeta od čerstvé krve."
 
 #: script/events/encounters.js:198
 msgid "A Scavenger"
-msgstr ""
+msgstr "Sběratel"
 
 #: script/events/encounters.js:206
 msgid "scavenger"
-msgstr ""
+msgstr "sběratel"
 
 #: script/events/encounters.js:207
 msgid "the scavenger is dead"
-msgstr ""
+msgstr "sběratel je mrtev"
 
 #: script/events/encounters.js:235
 msgid "a scavenger draws close, hoping for an easy score"
-msgstr ""
+msgstr "přiblížuje se sběratel, doufající v jednoduché vítěztví"
 
 #: script/events/encounters.js:240
 msgid "A Huge Lizard"
