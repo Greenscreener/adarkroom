@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-07 10:41+0100\n"
+"PO-Revision-Date: 2016-11-07 17:53+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1581,63 +1581,63 @@ msgstr "přiblížuje se sběratel, doufající v jednoduché vítěztví"
 
 #: script/events/encounters.js:240
 msgid "A Huge Lizard"
-msgstr ""
+msgstr "Obří Ještěrka"
 
 #: script/events/encounters.js:248
 msgid "lizard"
-msgstr ""
+msgstr "ještěrka"
 
 #: script/events/encounters.js:249
 msgid "the lizard is dead"
-msgstr ""
+msgstr "ještěrka je mrtvá"
 
 #: script/events/encounters.js:272
 msgid "the grass thrashes wildly as a huge lizard pushes through"
-msgstr ""
+msgstr "tráva se prudce rozhrnuje, když se obří ještěrka procpe skrz."
 
 #: script/events/encounters.js:278
 msgid "A Feral Terror"
-msgstr ""
+msgstr "Divoká Hrůza"
 
 #: script/events/encounters.js:286
 msgid "feral terror"
-msgstr ""
+msgstr "divoká hrůza"
 
 #: script/events/encounters.js:287
 msgid "the feral terror is dead"
-msgstr ""
+msgstr "divoká hrůza je mrtvá"
 
 #: script/events/encounters.js:310
 msgid "a beast, wilder than imagining, erupts out of the foliage"
-msgstr ""
+msgstr "příšera, divočejší, než je možno si představit, vylétá z křoví"
 
 #: script/events/encounters.js:315
 msgid "A Soldier"
-msgstr ""
+msgstr "Voják"
 
 #: script/events/encounters.js:323
 msgid "soldier"
-msgstr ""
+msgstr "voják"
 
 #: script/events/encounters.js:324
 msgid "the soldier is dead"
-msgstr ""
+msgstr "voják je mrtvý"
 
 #: script/events/encounters.js:353
 msgid "a soldier opens fire from across the desert"
-msgstr ""
+msgstr "voják začíná sřílet přes poušť"
 
 #: script/events/encounters.js:358
 msgid "A Sniper"
-msgstr ""
+msgstr "Ostrostřelec"
 
 #: script/events/encounters.js:366
 msgid "sniper"
-msgstr ""
+msgstr "ostrostřelec"
 
 #: script/events/encounters.js:367
 msgid "the sniper is dead"
-msgstr ""
+msgstr "ostrostřelec je mrtev"
 
 #: script/events/encounters.js:396
 msgid "a shot rings out, from somewhere in the long grass"
