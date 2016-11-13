@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-07 17:53+0100\n"
+"PO-Revision-Date: 2016-11-13 17:09+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1641,15 +1641,15 @@ msgstr "ostrostřelec je mrtev"
 
 #: script/events/encounters.js:396
 msgid "a shot rings out, from somewhere in the long grass"
-msgstr ""
+msgstr "zazní střela, odněkud z dlouhé trávy"
 
 #: script/events/global.js:6
 msgid "The Thief"
-msgstr ""
+msgstr "Zloděj"
 
 #: script/events/global.js:13
 msgid "the villagers haul a filthy man out of the store room."
-msgstr ""
+msgstr "vesničané táhnou otrhaného muže ze zásobárny."
 
 #: script/events/global.js:14
 msgid "say his folk have been skimming the supplies."
@@ -1661,200 +1661,200 @@ msgstr ""
 
 #: script/events/global.js:17
 msgid "a thief is caught"
-msgstr ""
+msgstr "zloeďej je uvězněn"
 
 #: script/events/global.js:21
 msgid "hang him"
-msgstr ""
+msgstr "pověsit ho"
 
 #: script/events/global.js:25
 msgid "spare him"
-msgstr ""
+msgstr "ušetřit ho"
 
 #: script/events/global.js:32
 msgid "the villagers hang the thief high in front of the store room."
-msgstr ""
+msgstr "vesničané pověsili zloděje před zásobárnou."
 
 #: script/events/global.js:33
 msgid ""
 "the point is made. in the next few days, the missing supplies are returned."
-msgstr ""
+msgstr "to pomohlo. za pár dnů jsou zmizelé zásoby zpět."
 
 #: script/events/global.js:49
 msgid "the man says he's grateful. says he won't come around any more."
-msgstr ""
+msgstr "muž je vděčný. říká, že už se tu neobjeví"
 
 #: script/events/global.js:50
 msgid "shares what he knows about sneaking before he goes."
-msgstr ""
+msgstr "než odejde řekne co ví o plížení."
 
 #: script/events/outside.js:6
 msgid "A Ruined Trap"
-msgstr ""
+msgstr "Zničená Past"
 
 #: script/events/outside.js:13
 msgid "some of the traps have been torn apart."
-msgstr ""
+msgstr "některé pasti byly roztrhány."
 
 #: script/events/outside.js:14
 msgid "large prints lead away, into the forest."
-msgstr ""
+msgstr "obří stopy vedou pryč, směrem do lesa."
 
 #: script/events/outside.js:22
 msgid "some traps have been destroyed"
-msgstr ""
+msgstr "některé pasti byly zničeny"
 
 #: script/events/outside.js:26
 msgid "track them"
-msgstr ""
+msgstr "sledovat je"
 
 #: script/events/outside.js:30 script/events/room.js:71
 #: script/events/room.js:122
 msgid "ignore them"
-msgstr ""
+msgstr "ignorovat je"
 
 #: script/events/outside.js:37
 msgid "the tracks disappear after just a few minutes."
-msgstr ""
+msgstr "stopy zmizí po pár minutách"
 
 #: script/events/outside.js:38
 msgid "the forest is silent."
-msgstr ""
+msgstr "les je tichý."
 
 #: script/events/outside.js:40
 msgid "nothing was found"
-msgstr ""
+msgstr "nebylo nic nalezeno"
 
 #: script/events/outside.js:43 script/events/outside.js:61
 #: script/events/outside.js:126 script/events/outside.js:144
 #: script/events/outside.js:197 script/events/outside.js:215
 #: script/events/outside.js:248 script/events/outside.js:282
 msgid "go home"
-msgstr ""
+msgstr "jít zpět"
 
 #: script/events/outside.js:50
 msgid "not far from the village lies a large beast, its fur matted with blood."
-msgstr ""
+msgstr "nedaleko vesnice leží nestvůra, její chlupy rozcuchané a plné krve."
 
 #: script/events/outside.js:51
 msgid "it puts up little resistance before the knife."
-msgstr ""
+msgstr "noži se brání jen velmi málo"
 
 #: script/events/outside.js:53
 msgid "there was a beast. it's dead now"
-msgstr ""
+msgstr "bylo tam monstrum. už je mrtvé"
 
 #: script/events/outside.js:69
 msgid "Fire"
-msgstr ""
+msgstr "Oheň"
 
 #: script/events/outside.js:76
 msgid "a fire rampages through one of the huts, destroying it."
-msgstr ""
+msgstr "oheň vzplane v jedné z chatrčí, a zničí ji."
 
 #: script/events/outside.js:77
 msgid "all residents in the hut perished in the fire."
-msgstr ""
+msgstr "všichni obyvatelé uhořeli."
 
 #: script/events/outside.js:79
 msgid "a fire has started"
-msgstr ""
+msgstr "vzplanul oheň"
 
 #: script/events/outside.js:86
 msgid "mourn"
-msgstr ""
+msgstr "truchlit"
 
 #: script/events/outside.js:87
 msgid "some villagers have died"
-msgstr ""
+msgstr "někteří vesničané zemřeli"
 
 #: script/events/outside.js:95
 msgid "Sickness"
-msgstr ""
+msgstr "Nemoc"
 
 #: script/events/outside.js:102
 msgid "a sickness is spreading through the village."
-msgstr ""
+msgstr "nemoc se rozšiřuje vesnicí"
 
 #: script/events/outside.js:103 script/events/outside.js:161
 msgid "medicine is needed immediately."
-msgstr ""
+msgstr "jsou potřeba léky. okamžitě."
 
 #: script/events/outside.js:105
 msgid "some villagers are ill"
-msgstr ""
+msgstr "někteří vesničané jsou nemocní"
 
 #: script/events/outside.js:109
 msgid "1 medicine"
-msgstr ""
+msgstr "1 lék"
 
 #: script/events/outside.js:114
 msgid "ignore it"
-msgstr ""
+msgstr "ignorovat"
 
 #: script/events/outside.js:121
 msgid "the sickness is cured in time."
-msgstr ""
+msgstr "nemoc se časem vyléčí"
 
 #: script/events/outside.js:123
 msgid "sufferers are healed"
-msgstr ""
+msgstr "nemocní jsou vyléčeni"
 
 #: script/events/outside.js:133
 msgid "the sickness spreads through the village."
-msgstr ""
+msgstr "nemoc se rozšíří vesnicí"
 
 #: script/events/outside.js:134
 msgid "the days are spent with burials."
-msgstr ""
+msgstr "dny jsou zasvěceny pohřbům"
 
 #: script/events/outside.js:135 script/events/outside.js:205
 msgid "the nights are rent with screams."
-msgstr ""
+msgstr "noci jsou naplněny křiky."
 
 #: script/events/outside.js:137
 msgid "sufferers are left to die"
-msgstr ""
+msgstr "trpící jsou ponecháni na smrt"
 
 #: script/events/outside.js:153
 msgid "Plague"
-msgstr ""
+msgstr "Mor"
 
 #: script/events/outside.js:160
 msgid "a terrible plague is fast spreading through the village."
-msgstr ""
+msgstr "strašný mor se rychle rozšiřuje vesnicí"
 
 #: script/events/outside.js:163
 msgid "a plague afflicts the village"
-msgstr ""
+msgstr "mor postihne vesnici"
 
 #: script/events/outside.js:168
 msgid "buy medicine"
-msgstr ""
+msgstr "koupit lék"
 
 #: script/events/outside.js:174
 msgid "5 medicine"
-msgstr ""
+msgstr "5 léků"
 
 #: script/events/outside.js:179
 msgid "do nothing"
-msgstr ""
+msgstr "neudělat nic"
 
 #: script/events/outside.js:186
 msgid "the plague is kept from spreading."
-msgstr ""
+msgstr "mor se už dál nešíří."
 
 #: script/events/outside.js:187
 msgid "only a few die."
-msgstr ""
+msgstr "jen málo lidí umře."
 
 #: script/events/outside.js:188
 msgid "the rest bury them."
-msgstr ""
+msgstr "ostatní je pohřbí."
 
 #: script/events/outside.js:190
 msgid "epidemic is eradicated eventually"
-msgstr ""
+msgstr "epidemie je nakonec vymícena"
 
 #: script/events/outside.js:204
 msgid "the plague rips through the village."
@@ -1862,100 +1862,101 @@ msgstr ""
 
 #: script/events/outside.js:206
 msgid "the only hope is a quick death."
-msgstr ""
+msgstr "jediná naděje je rychlá smrt."
 
 #: script/events/outside.js:208
 msgid "population is almost exterminated"
-msgstr ""
+msgstr "populace je téměř vyhlazena"
 
 #: script/events/outside.js:224
 msgid "A Beast Attack"
-msgstr ""
+msgstr "Útok Příšer"
 
 #: script/events/outside.js:231
 msgid "a pack of snarling beasts pours out of the trees."
-msgstr ""
+msgstr "stádo vrčících příšer se vyhrne z lesa"
 
 #: script/events/outside.js:232
 msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr ""
+msgstr "boj je krátký a krvavý, ale příšery jsou vypuzeny."
 
 #: script/events/outside.js:233
 msgid "the villagers retreat to mourn the dead."
-msgstr ""
+msgstr "vesničané se vrátí, aby mohli truchlit za mrtvé."
 
 #: script/events/outside.js:235
 msgid "wild beasts attack the villagers"
-msgstr ""
+msgstr "divoké příšery zaútočí na vesničany"
 
 #: script/events/outside.js:249
 msgid "predators become prey. price is unfair"
-msgstr ""
+msgstr "z lovců se stane kořist. ztráty jsou na obou stranách"
 
 #: script/events/outside.js:258
 msgid "A Military Raid"
-msgstr ""
+msgstr "Vojenský Nájezd"
 
 #: script/events/outside.js:265
 msgid "a gunshot rings through the trees."
-msgstr ""
+msgstr "kulka proletí mezi stromy"
 
 #: script/events/outside.js:266
 msgid "well armed men charge out of the forest, firing into the crowd."
-msgstr ""
+msgstr "dobře ozbrojení vojáci zaútočí z lesa, střílejí do davu."
 
 #: script/events/outside.js:267
 msgid "after a skirmish they are driven away, but not without losses."
-msgstr ""
+msgstr "po šarvátce jsou zahnáni, ale ne bez ztrát."
 
 #: script/events/outside.js:269
 msgid "troops storm the village"
-msgstr ""
+msgstr "vojáci zaútočí na vesnici"
 
 #: script/events/outside.js:283
 msgid "warfare is bloodthirsty"
-msgstr ""
+msgstr "boj je krvežíznivý"
 
 #: script/events/room.js:6
 msgid "The Nomad"
-msgstr ""
+msgstr "Nomád"
 
 #: script/events/room.js:13
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
 msgstr ""
+"nomád se přišoupe, naložený provizorními taškami svázanými hrubým motouzem."
 
 #: script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr ""
+msgstr "neřeknul odkud přišel, a ani to neřekne"
 
 #: script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
-msgstr ""
+msgstr "přichází nomád, hledající možnost obchodu"
 
 #: script/events/room.js:20
 msgid "buy scales"
-msgstr ""
+msgstr "koupit šupiny"
 
 #: script/events/room.js:25
 msgid "buy teeth"
-msgstr ""
+msgstr "koupit zuby"
 
 #: script/events/room.js:30
 msgid "buy bait"
-msgstr ""
+msgstr "koupit návnadu"
 
 #: script/events/room.js:33
 msgid "traps are more effective with bait."
-msgstr ""
+msgstr "pasti jsou efektivnější s návnadou."
 
 #: script/events/room.js:39
 msgid "buy compass"
-msgstr ""
+msgstr "koupit kompas"
 
 #: script/events/room.js:42
 msgid "the old compass is dented and dusty, but it looks to work."
-msgstr ""
+msgstr "starý kompas je promačkaný a zaprášený, ale vypadá, že funguje."
 
 #: script/events/room.js:45 script/events/room.js:227 script/events/room.js:240
 #: script/events/room.js:253 script/events/room.js:309
@@ -1964,7 +1965,7 @@ msgstr ""
 #: script/events/room.js:568 script/events/room.js:584
 #: script/events/room.js:600 script/events/room.js:611
 msgid "say goodbye"
-msgstr ""
+msgstr "říct sbohem"
 
 #: script/events/room.js:53 script/events/room.js:104
 msgid "Noises"
