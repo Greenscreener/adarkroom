@@ -1517,7 +1517,7 @@ msgstr "přistupuje vyzáblý muž s šíleným pohledem v oku"
 
 #: script/events/encounters.js:81
 msgid "A Strange Bird"
-msgstr "Divný Pátk"
+msgstr "Divný Pták"
 
 #: script/events/encounters.js:89
 msgid "strange bird"
@@ -1549,15 +1549,15 @@ msgstr "přistupuje rozklepaný muž a zaútočí překvapivou silou."
 
 #: script/events/encounters.js:161
 msgid "A Man-Eater"
-msgstr "Člověkojed"
+msgstr "Lidojed"
 
 #: script/events/encounters.js:169
 msgid "man-eater"
-msgstr "člověkojed"
+msgstr "lidojed"
 
 #: script/events/encounters.js:170
 msgid "the man-eater is dead"
-msgstr "člověkojed je mrtvý"
+msgstr "lidojed je mrtvý"
 
 #: script/events/encounters.js:193
 msgid "a large creature attacks, claws freshly bloodied"
