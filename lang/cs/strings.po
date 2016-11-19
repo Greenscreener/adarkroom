@@ -1641,7 +1641,7 @@ msgstr "ostrostřelec je mrtev"
 
 #: script/events/encounters.js:396
 msgid "a shot rings out, from somewhere in the long grass"
-msgstr "zazní střela, odněkud z dlouhé trávy"
+msgstr "zazní střela, odněkud z vysoké trávy"
 
 #: script/events/global.js:6
 msgid "The Thief"
@@ -1686,7 +1686,7 @@ msgstr "muž je vděčný. říká, že už se tu neobjeví"
 
 #: script/events/global.js:50
 msgid "shares what he knows about sneaking before he goes."
-msgstr "než odejde řekne co ví o plížení."
+msgstr "než odejde, řekne, co ví o plížení."
 
 #: script/events/outside.js:6
 msgid "A Ruined Trap"
@@ -1878,7 +1878,7 @@ msgstr "stádo vrčících příšer se vyhrne z lesa"
 
 #: script/events/outside.js:232
 msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr "boj je krátký a krvavý, ale příšery jsou vypuzeny."
+msgstr "boj je krátký a krvavý, ale příšery jsou odraženy."
 
 #: script/events/outside.js:233
 msgid "the villagers retreat to mourn the dead."
@@ -1924,11 +1924,11 @@ msgstr "Nomád"
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
 msgstr ""
-"nomád se přišoupe, naložený provizorními taškami svázanými hrubým motouzem."
+"nomád se přišoupe, obtěžkaný provizorními taškami svázanými hrubým motouzem."
 
 #: script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr "neřeknul odkud přišel, a ani to neřekne"
+msgstr "neřekl odkud přišel, a ani to neřekne"
 
 #: script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
