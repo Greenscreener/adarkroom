@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-13 17:09+0100\n"
+"PO-Revision-Date: 2016-11-30 19:55+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1653,11 +1653,11 @@ msgstr "vesničané táhnou otrhaného muže ze zásobárny."
 
 #: script/events/global.js:14
 msgid "say his folk have been skimming the supplies."
-msgstr ""
+msgstr "říct, že jeho kumpán kradl zásoby."
 
 #: script/events/global.js:15
 msgid "say he should be strung up as an example."
-msgstr ""
+msgstr "říct, že by měl být pověšen, jako příklad pro ostatní."
 
 #: script/events/global.js:17
 msgid "a thief is caught"
@@ -1858,7 +1858,7 @@ msgstr "epidemie je nakonec vymícena"
 
 #: script/events/outside.js:204
 msgid "the plague rips through the village."
-msgstr ""
+msgstr "mor zdecimuje vesnici."
 
 #: script/events/outside.js:206
 msgid "the only hope is a quick death."
@@ -1969,291 +1969,295 @@ msgstr "říct sbohem"
 
 #: script/events/room.js:53 script/events/room.js:104
 msgid "Noises"
-msgstr ""
+msgstr "Hluk"
 
 #: script/events/room.js:60
 msgid "through the walls, shuffling noises can be heard."
-msgstr ""
+msgstr "přes zdi jsou slyšet zvláštní zvuky."
 
 #: script/events/room.js:61
 msgid "can't tell what they're up to."
-msgstr ""
+msgstr "nikdo neví co jsou"
 
 #: script/events/room.js:63
 msgid "strange noises can be heard through the walls"
-msgstr ""
+msgstr "přes zdi jsou slyšet zvláštní zvuky"
 
 #: script/events/room.js:67 script/events/room.js:118
 #: script/events/setpieces.js:1662
 msgid "investigate"
-msgstr ""
+msgstr "prozkoumat"
 
 #: script/events/room.js:78
 msgid "vague shapes move, just out of sight."
-msgstr ""
+msgstr "pohne se nejasný tvar,  těsně mimo zorné pole."
 
 #: script/events/room.js:79
 msgid "the sounds stop."
-msgstr ""
+msgstr "zvuky přestanou."
 
 #: script/events/room.js:83 script/events/room.js:96
 msgid "go back inside"
-msgstr ""
+msgstr "vrátit se zpět"
 
 #: script/events/room.js:91
 msgid ""
 "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
-msgstr ""
+msgstr "ranec klacíků leží před prahem, obalené v drsné kůži."
 
 #: script/events/room.js:92
 msgid "the night is silent."
-msgstr ""
+msgstr "je tichá noc."
 
 #: script/events/room.js:111
 msgid "scratching noises can be heard from the store room."
-msgstr ""
+msgstr "škrábající zvuky jsou slyšet ze zásobarny."
 
 #: script/events/room.js:112
 msgid "something's in there."
-msgstr ""
+msgstr "něco tam je."
 
 #: script/events/room.js:114
 msgid "something's in the store room"
-msgstr ""
+msgstr "něco je v zásobárně"
 
 #: script/events/room.js:129 script/events/room.js:149
 #: script/events/room.js:169
 msgid "some wood is missing."
-msgstr ""
+msgstr "zmizelo trochu dřeva."
 
 #: script/events/room.js:130
 msgid "the ground is littered with small scales"
-msgstr ""
+msgstr "země je posetá malými šupinami"
 
 #: script/events/room.js:150
 msgid "the ground is littered with small teeth"
-msgstr ""
+msgstr "země je posetá malými zuby"
 
 #: script/events/room.js:170
 msgid "the ground is littered with scraps of cloth"
-msgstr ""
+msgstr "země je posetá kousky látky"
 
 #: script/events/room.js:190
 msgid "The Beggar"
-msgstr ""
+msgstr "Žebrák"
 
 #: script/events/room.js:197
 msgid "a beggar arrives."
-msgstr ""
+msgstr "přichází žebrák"
 
 #: script/events/room.js:198
 msgid "asks for any spare furs to keep him warm at night."
-msgstr ""
+msgstr "žádá trochu zbytečné kožešiny, aby se mohl v noci zahřát."
 
 #: script/events/room.js:200
 msgid "a beggar arrives"
-msgstr ""
+msgstr "přichází žebrák"
 
 #: script/events/room.js:204
 msgid "give 50"
-msgstr ""
+msgstr "dát 50"
 
 #: script/events/room.js:209 script/events/room.js:276
 #: script/events/room.js:355
 msgid "give 100"
-msgstr ""
+msgstr "dát 100"
 
 #: script/events/room.js:214 script/events/room.js:286
 #: script/events/room.js:482
 msgid "turn him away"
-msgstr ""
+msgstr "poslat ho pryč"
 
 #: script/events/room.js:222 script/events/room.js:235
 #: script/events/room.js:248
 msgid "the beggar expresses his thanks."
-msgstr ""
+msgstr "žebrák vysloví své díky."
 
 #: script/events/room.js:223
 msgid "leaves a pile of small scales behind."
-msgstr ""
+msgstr "zanechá hromádku malých šupin."
 
 #: script/events/room.js:236
 msgid "leaves a pile of small teeth behind."
-msgstr ""
+msgstr "zanechá hromádku malých zubů."
 
 #: script/events/room.js:249
 msgid "leaves some scraps of cloth behind."
-msgstr ""
+msgstr "zanechá hromádku malých kousků látky."
 
 #: script/events/room.js:262 script/events/room.js:341
 msgid "The Mysterious Wanderer"
-msgstr ""
+msgstr "Tajemný Vandrák"
 
 #: script/events/room.js:269
 msgid ""
 "a wanderer arrives with an empty cart. says if he leaves with wood, he'll be "
 "back with more."
 msgstr ""
+"přijede vandrák s prázdným vozíkem. říká, že když mu bude poskytnuto dřevo "
+"vrátí se s více."
 
 #: script/events/room.js:270
 msgid "builder's not sure he's to be trusted."
-msgstr ""
+msgstr "stavitelka si není jistá, jestli se mu dá důvěřovat."
 
 #: script/events/room.js:272 script/events/room.js:351
 msgid "a mysterious wanderer arrives"
-msgstr ""
+msgstr "přijde tajemný vandrák"
 
 #: script/events/room.js:281 script/events/room.js:360
 msgid "give 500"
-msgstr ""
+msgstr "dát 500"
 
 #: script/events/room.js:293 script/events/room.js:316
 msgid "the wanderer leaves, cart loaded with wood"
-msgstr ""
+msgstr "vandrák odchází s plným vozíkem dřeva"
 
 #: script/events/room.js:299 script/events/room.js:322
 msgid "the mysterious wanderer returns, cart piled high with wood."
-msgstr ""
+msgstr "vandrák se vrací s přeplněným vozíkem."
 
 #: script/events/room.js:348
 msgid ""
 "a wanderer arrives with an empty cart. says if she leaves with furs, she'll "
 "be back with more."
 msgstr ""
+"přijede tulačka s prázdným vozíkem. říká, že když jí bude poskytnuta "
+"kožešina vrátí se s více."
 
 #: script/events/room.js:349
 msgid "builder's not sure she's to be trusted."
-msgstr ""
+msgstr "stavitelka si není jistá, jestli se jí dá důvěřovat."
 
 #: script/events/room.js:365
 msgid "turn her away"
-msgstr ""
+msgstr "poslat jí pryč"
 
 #: script/events/room.js:372 script/events/room.js:395
 msgid "the wanderer leaves, cart loaded with furs"
-msgstr ""
+msgstr "tulačka odchází, vozík plný kožešiny"
 
 #: script/events/room.js:378 script/events/room.js:401
 msgid "the mysterious wanderer returns, cart piled high with furs."
-msgstr ""
+msgstr "tajemná tulačka se vrací, vozík přeplněný kožešiny."
 
 #: script/events/room.js:420
 msgid "The Scout"
-msgstr ""
+msgstr "Průkumnice"
 
 #: script/events/room.js:427
 msgid "the scout says she's been all over."
-msgstr ""
+msgstr "průzkumnice říká, že byla skoro všude."
 
 #: script/events/room.js:428
 msgid "willing to talk about it, for a price."
-msgstr ""
+msgstr "může o tom povídat, ale za peníze."
 
 #: script/events/room.js:430
 msgid "a scout stops for the night"
-msgstr ""
+msgstr "průzkumnice zůstane přes noc"
 
 #: script/events/room.js:434
 msgid "buy map"
-msgstr ""
+msgstr "koupit mapu"
 
 #: script/events/room.js:436
 msgid "the map uncovers a bit of the world"
-msgstr ""
+msgstr "mapa odhalí kousek světa"
 
 #: script/events/room.js:440
 msgid "learn scouting"
-msgstr ""
+msgstr "naučit průzkum"
 
 #: script/events/room.js:459
 msgid "The Master"
-msgstr ""
+msgstr "Mistr"
 
 #: script/events/room.js:466
 msgid "an old wanderer arrives."
-msgstr ""
+msgstr "přichází starý poutník."
 
 #: script/events/room.js:467
 msgid "he smiles warmly and asks for lodgings for the night."
-msgstr ""
+msgstr "příjemně se usmívá a požaduje nocleh na noc."
 
 #: script/events/room.js:469
 msgid "an old wanderer arrives"
-msgstr ""
+msgstr "přichází starý poutník"
 
 #: script/events/room.js:473
 msgid "agree"
-msgstr ""
+msgstr "souhlas"
 
 #: script/events/room.js:489
 msgid "in exchange, the wanderer offers his wisdom."
-msgstr ""
+msgstr "na oplátku, poutník poskytuje svou moudrost."
 
 #: script/events/room.js:493
 msgid "evasion"
-msgstr ""
+msgstr "vyhnutí"
 
 #: script/events/room.js:503
 msgid "precision"
-msgstr ""
+msgstr "přesnost"
 
 #: script/events/room.js:513
 msgid "force"
-msgstr ""
+msgstr "síla"
 
 #: script/events/room.js:532
 msgid "The Sick Man"
-msgstr ""
+msgstr "Nemocný Muž"
 
 #: script/events/room.js:539
 msgid "a man hobbles up, coughing."
-msgstr ""
+msgstr "přikulhá muž, kašlá."
 
 #: script/events/room.js:540
 msgid "he begs for medicine."
-msgstr ""
+msgstr "žebrá léky."
 
 #: script/events/room.js:542
 msgid "a sick man hobbles up"
-msgstr ""
+msgstr "nemocný muž přikulhá."
 
 #: script/events/room.js:546
 msgid "give 1 medicine"
-msgstr ""
+msgstr "dát 1 lék"
 
 #: script/events/room.js:548
 msgid "the man swallows the medicine eagerly"
-msgstr ""
+msgstr "můž dychtivě zhltne lék."
 
 #: script/events/room.js:552
 msgid "tell him to leave"
-msgstr ""
+msgstr "říct mu aby odešel"
 
 #: script/events/room.js:559 script/events/room.js:575
 #: script/events/room.js:591
 msgid "the man is thankful."
-msgstr ""
+msgstr "muž je vděčný"
 
 #: script/events/room.js:560 script/events/room.js:576
 #: script/events/room.js:592
 msgid "he leaves a reward."
-msgstr ""
+msgstr "zanechává odměnu."
 
 #: script/events/room.js:561
 msgid "some weird metal he picked up on his travels."
-msgstr ""
+msgstr "jakýsi zvláštní kov, co našel při svých cestách."
 
 #: script/events/room.js:577
 msgid "some weird glowing boxes he picked up on his travels."
-msgstr ""
+msgstr "jakési zvláštní svítící krabičky, co našel při svých cestách."
 
 #: script/events/room.js:593
 msgid "all he has are some scales."
-msgstr ""
+msgstr "vše co má je jen pár šupin."
 
 #: script/events/room.js:607
 msgid "the man expresses his thanks and hobbles off."
-msgstr ""
+msgstr "muž vyjádří své díky a odkulhá pryč."
 
 #: script/events/setpieces.js:6
 msgid "An Outpost"
