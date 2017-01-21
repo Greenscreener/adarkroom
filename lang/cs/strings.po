@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-22 13:35-0600\n"
-"PO-Revision-Date: 2016-11-30 19:55+0100\n"
+"PO-Revision-Date: 2017-01-21 19:06+0100\n"
 "Last-Translator: Jan Černohorský <honzikcernoh@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1641,7 +1641,7 @@ msgstr "ostrostřelec je mrtev"
 
 #: script/events/encounters.js:396
 msgid "a shot rings out, from somewhere in the long grass"
-msgstr "zazní střela, odněkud z vysoké trávy"
+msgstr "zazní střela, odněkud z dlouhé trávy"
 
 #: script/events/global.js:6
 msgid "The Thief"
@@ -1686,7 +1686,7 @@ msgstr "muž je vděčný. říká, že už se tu neobjeví"
 
 #: script/events/global.js:50
 msgid "shares what he knows about sneaking before he goes."
-msgstr "než odejde, řekne, co ví o plížení."
+msgstr "než odejde řekne co ví o plížení."
 
 #: script/events/outside.js:6
 msgid "A Ruined Trap"
@@ -1878,7 +1878,7 @@ msgstr "stádo vrčících příšer se vyhrne z lesa"
 
 #: script/events/outside.js:232
 msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr "boj je krátký a krvavý, ale příšery jsou odraženy."
+msgstr "boj je krátký a krvavý, ale příšery jsou vypuzeny."
 
 #: script/events/outside.js:233
 msgid "the villagers retreat to mourn the dead."
@@ -1924,11 +1924,11 @@ msgstr "Nomád"
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
 msgstr ""
-"nomád se přišoupe, obtěžkaný provizorními taškami svázanými hrubým motouzem."
+"nomád se přišoupe, naložený provizorními taškami svázanými hrubým motouzem."
 
 #: script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr "neřekl odkud přišel, a ani to neřekne"
+msgstr "neřeknul odkud přišel, a ani to neřekne"
 
 #: script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
@@ -2261,87 +2261,87 @@ msgstr "muž vyjádří své díky a odkulhá pryč."
 
 #: script/events/setpieces.js:6
 msgid "An Outpost"
-msgstr ""
+msgstr "Základna"
 
 #: script/events/setpieces.js:10 script/events/setpieces.js:12
 msgid "a safe place in the wilds."
-msgstr ""
+msgstr "bezpečné místo uprostřed  divočiny."
 
 #: script/events/setpieces.js:34
 msgid "A Murky Swamp"
-msgstr ""
+msgstr "Kalná Bažina"
 
 #: script/events/setpieces.js:38
 msgid "rotting reeds rise out of the swampy earth."
-msgstr ""
+msgstr "hnijící rákosí vystupuje z bažiny"
 
 #: script/events/setpieces.js:39
 msgid "a lone frog sits in the muck, silently."
-msgstr ""
+msgstr "osamělá žába sedí tiše v blátě."
 
 #: script/events/setpieces.js:41
 msgid "a swamp festers in the stagnant air."
-msgstr ""
+msgstr "zatuchlým vzduchem hnisá bažina"
 
 #: script/events/setpieces.js:44 script/events/setpieces.js:549
 #: script/events/setpieces.js:606 script/events/setpieces.js:888
 #: script/events/setpieces.js:1313 script/events/setpieces.js:1331
 #: script/events/setpieces.js:3535
 msgid "enter"
-msgstr ""
+msgstr "vejít"
 
 #: script/events/setpieces.js:55
 msgid "deep in the swamp is a moss-covered cabin."
-msgstr ""
+msgstr "hluboko v bažině je chajda pokrytá mechem."
 
 #: script/events/setpieces.js:56
 msgid "an old wanderer sits inside, in a seeming trance."
-msgstr ""
+msgstr "starý poutník sedí uvnitř, v zdánlivém transu."
 
 #: script/events/setpieces.js:61
 msgid "talk"
-msgstr ""
+msgstr "promluvit si"
 
 #: script/events/setpieces.js:72
 msgid "the wanderer takes the charm and nods slowly."
-msgstr ""
+msgstr "poutník si bere talisman a pomalu pokyvuje."
 
 #: script/events/setpieces.js:73
 msgid "he speaks of once leading the great fleets to fresh worlds."
-msgstr ""
+msgstr "vypráví o tom, jak jednou vedl velké flotily."
 
 #: script/events/setpieces.js:74
 msgid "unfathomable destruction to fuel wanderer hungers."
-msgstr ""
+msgstr "nenaplnitelná destrukce pohánějící poutníkovy touhy."
 
 #: script/events/setpieces.js:75
 msgid "his time here, now, is his penance."
-msgstr ""
+msgstr "jeho čas zde, teď, je jeho pokání."
 
 #: script/events/setpieces.js:91
 msgid "A Damp Cave"
-msgstr ""
+msgstr "Vlhká Jeskyně"
 
 #: script/events/setpieces.js:95
 msgid "the mouth of the cave is wide and dark."
-msgstr ""
+msgstr "vchod do jeskyně je široký a temný"
 
 #: script/events/setpieces.js:96
 msgid "can't see what's inside."
-msgstr ""
+msgstr "není vidět dovnitř."
 
 #: script/events/setpieces.js:98
 msgid "the earth here is split, as if bearing an ancient wound"
-msgstr ""
+msgstr "země je zde rozštěpená, jako jizva prastaréh rány."
 
 #: script/events/setpieces.js:101 script/events/setpieces.js:2944
 #: script/events/setpieces.js:3458
 msgid "go inside"
-msgstr ""
+msgstr "jít dovnitř"
 
 #: script/events/setpieces.js:120 script/events/setpieces.js:265
 msgid "a startled beast defends its home"
-msgstr ""
+msgstr "vyplašená stvůra b rání svůj domov."
 
 #: script/events/setpieces.js:135 script/events/setpieces.js:186
 #: script/events/setpieces.js:228 script/events/setpieces.js:247
@@ -2374,7 +2374,7 @@ msgstr ""
 #: script/events/setpieces.js:3347 script/events/setpieces.js:3381
 #: script/events/setpieces.js:3420
 msgid "continue"
-msgstr ""
+msgstr "pokračivat"
 
 #: script/events/setpieces.js:140 script/events/setpieces.js:157
 #: script/events/setpieces.js:191 script/events/setpieces.js:233
@@ -2383,23 +2383,23 @@ msgstr ""
 #: script/events/setpieces.js:387 script/events/setpieces.js:429
 #: script/events/setpieces.js:481 script/events/setpieces.js:513
 msgid "leave cave"
-msgstr ""
+msgstr "opustit jeskyni"
 
 #: script/events/setpieces.js:148
 msgid "the cave narrows a few feet in."
-msgstr ""
+msgstr "jeskyně se po pár metrech zužuje."
 
 #: script/events/setpieces.js:149
 msgid "the walls are moist and moss-covered"
-msgstr ""
+msgstr "stěny jsou vlhké a pokryté mechem."
 
 #: script/events/setpieces.js:153
 msgid "squeeze"
-msgstr ""
+msgstr "protáhnout se."
 
 #: script/events/setpieces.js:164
 msgid "the remains of an old camp sits just inside the cave."
-msgstr ""
+msgstr "zbytky starého tábora jsou zrovna uvbnitř jeskyně."
 
 #: script/events/setpieces.js:165
 msgid "bedrolls, torn and blackened, lay beneath a thin layer of dust."
